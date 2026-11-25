@@ -1,0 +1,16 @@
+# Les vrais bons plans PC
+
+> Bons plans PC (matériel informatique) présentés dans des vidéos TikTok en français. Chaque prix est comparé à son historique sur 3 mois et vérifié sur la page du vendeur. Dernière mise à jour : 25/11/2026.
+
+## Vidéo 01 · Écrans Black Friday (publiée le 26/11/2026)
+- [Lenovo Legion 24-15](https://www.darty.com/nav/achat/informatique/ecran_informatique/ecran_informatique/lenovo_legion_24-15.html) : 23,8", 1080p, IPS, 240 Hz. 89,99 € chez Darty, avant 139,99 €. offre active.
+- [AOC Q27G4XFAD](https://www.amazon.fr/dp/B0GWDTNJN3) : 27", 1440p, IPS, 180 Hz. 139 € chez Amazon, avant 169,99 €. offre active.
+- [AOC Q27G4ZDRAD](https://www.amazon.fr/dp/B0GWDVQ63M) : 27", 1440p, QD-OLED, 240 Hz. 319 € chez Amazon, avant 369 €. offre active.
+- [LG UltraGear 34GS95QE](https://www.amazon.fr/dp/B0D6Z22RHP) : 34", 3440×1440, OLED, 240 Hz. 599,99 € chez Amazon, avant 749 €. offre active.
+
+## Méthode
+Chaque prix est comparé à son historique sur 3 mois et au marché actuel, puis vérifié sur la page du vendeur (prix, vendeur, stock, livraison).
+
+## Pages
+- [Mentions légales](mentions-legales.html)
+- [Confidentialité](confidentialite.html)
