@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://zelta46.github.io/bons-plans-pc/sitemap.xml
